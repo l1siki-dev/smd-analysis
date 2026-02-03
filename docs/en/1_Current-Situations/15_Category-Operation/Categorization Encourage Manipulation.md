@@ -7,5 +7,5 @@ Introducing any categorized voters, even with good intent, will result fragile e
 The existence of categorized voters incentivises politicians to manipulate votes by changing how they are categorized. Because a politician's survival depends on the election result.
 
 ### Verdict: Any Categorized Voters System is Bad
-No matter the intention. 
+No matter the intention. When we need to categorize voters, for technical reason, it effect should be minimized. "Winner Takes All" is deliverate expoite  to maximize the flaw of categorization.
 Politicians have a strong incentive to manipulate votes to survive.
