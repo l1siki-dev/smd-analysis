@@ -5,11 +5,12 @@
 		{"id":"72a360e88324de65","type":"group","x":980,"y":-1480,"width":900,"height":1520,"label":"Divide and Conquer"},
 		{"id":"34c3d8b76e8bdeb4","type":"group","x":-120,"y":300,"width":1280,"height":1000,"label":"Plan to Solve Problem"},
 		{"id":"7fc78c86e22393c0","type":"group","x":200,"y":-1480,"width":720,"height":1520,"label":"Categorization Encourage Manipulation"},
+		{"id":"3fbaf2fbff1c419f","type":"file","file":"en/1_Current-Situations/13_Divide-and-Conquer/Forces neighbors to fight each other.md","x":1020,"y":-1440,"width":820,"height":1000},
+		{"id":"d2ff877598bc39b1","type":"file","file":"en/non-mkdocs/13/Big Parties Gain, Voters Lose..md","x":1170,"y":-320,"width":540,"height":320},
 		{"id":"a2bcd258a1c61038","type":"file","file":"en/non-mkdocs/12/Big Parties Gain, Voters Lose..md","x":335,"y":-320,"width":450,"height":320},
 		{"id":"894a54342e16ad57","type":"file","file":"en/1_Current-Situations/15_Category-Operation/Rewards map-drawing, not vote-getting.md","x":240,"y":-1420,"width":640,"height":660},
 		{"id":"54fbeb9cf3a35f65","type":"file","file":"en/1_Current-Situations/11_Filter-by-money,-not-popularity/Filter by money, not popularity.md","x":-740,"y":-1420,"width":784,"height":860},
 		{"id":"86a4912fbf6e3ece","type":"file","file":"en/non-mkdocs/11/Big Parties Gain, Voters Lose..md","dynamicHeight":true,"x":-605,"y":-320,"width":514,"height":320},
-		{"id":"3fbaf2fbff1c419f","type":"file","file":"en/1_Current-Situations/13_Divide-and-Conquer/Forces neighbors to fight each other.md","x":1020,"y":-1440,"width":820,"height":1000},
 		{
 			"id":"003c873d40a1d058",
 			"type":"text",
@@ -20,24 +21,12 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"d2ff877598bc39b1","type":"file","file":"en/non-mkdocs/13/Big Parties Gain, Voters Lose..md","x":1170,"y":-320,"width":540,"height":320},
 		{"id":"2394269d503cd4eb","type":"file","file":"en/9_Solutions/2. Remove SMD, reform the entire system.md","x":400,"y":370,"width":680,"height":760},
 		{"id":"7284ec45ce5de51b","type":"file","file":"en/9_Solutions/1. Spread the understanding of the current situation.md","x":-80,"y":545,"width":440,"height":455},
 		{"id":"39d5f1383e350d9c","type":"file","file":"en/9_Solutions/Why Single Transferable Vote solve the problem.md","x":1240,"y":145,"width":880,"height":1210},
 		{"id":"c443f7b4a53742e4","type":"file","file":"en/1_Current-Situations/13_Divide-and-Conquer/Historical Example, Partition of India..md","x":2000,"y":-1350,"width":640,"height":820}
 	],
 	"edges":[
-		{
-			"id":"2c5718a28726917f",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"3fbaf2fbff1c419f",
-			"fromSide":"bottom",
-			"toNode":"d2ff877598bc39b1",
-			"toSide":"top",
-			"label":"Who Gain/Lose?"
-		},
 		{
 			"id":"4eff7c64e379c32a",
 			"styleAttributes":{"pathfindingMethod":"square"},
@@ -70,15 +59,6 @@
 			"toSide":"right"
 		},
 		{
-			"id":"a4c911479716ff83",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromNode":"c443f7b4a53742e4",
-			"fromSide":"left",
-			"toNode":"3fbaf2fbff1c419f",
-			"toSide":"right"
-		},
-		{
 			"id":"87672d019c289246",
 			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
@@ -87,6 +67,26 @@
 			"toNode":"86a4912fbf6e3ece",
 			"toSide":"top",
 			"label":"Who Gain/Lose?"
+		},
+		{
+			"id":"2c5718a28726917f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3fbaf2fbff1c419f",
+			"fromSide":"bottom",
+			"toNode":"d2ff877598bc39b1",
+			"toSide":"top",
+			"label":"Who Gain/Lose?"
+		},
+		{
+			"id":"a4c911479716ff83",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"c443f7b4a53742e4",
+			"fromSide":"left",
+			"toNode":"3fbaf2fbff1c419f",
+			"toSide":"right"
 		}
 	],
 	"metadata":{
