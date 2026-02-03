@@ -1,5 +1,7 @@
 [](../../non-mkdocs/12/Big%20Parties%20Gain,%20Voters%20Lose..md)[](../../non-mkdocs/12/Big%20Parties%20Gain,%20Voters%20Lose..md)For example, the famous Gerrymandering (the way to manipulate election results by geographical categorization) is only possible because of "Categorization of voters."
 
+If they don't have way 
+
 Introducing any categorized voters, even with good intent, will result fragile election system that prune to manipulation.
 
 The existence of categorized voters incentivises politicians to manipulate votes by changing how they are categorized. Because a politician's survival depends on the election result.

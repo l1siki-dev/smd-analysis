@@ -1,4 +1,4 @@
-[](Big%20Parties%20Gain,%20Voters%20Lose..md)Single-Member Districts (SMD) are frequently advertised as: **"Delivers the local voice to parliament.** Having one representative for each geographic area means that the specific community gets a dedicated champion."
+[](../../non-mkdocs/13/Big%20Parties%20Gain,%20Voters%20Lose..md)Single-Member Districts (SMD) are frequently advertised as: **"Delivers the local voice to parliament.** Having one representative for each geographic area means that the specific community gets a dedicated champion."
 
 But, is that true?
 ### 1. The Trap of the "Local Hero"
