@@ -1,2 +1,2 @@
 1. Becasue it shape our daily life. Tax, economic policy, society, these are ultimately come from politics. And election shape politics.
-2. Because the current system is not good system for you. It's designed for politicians. Not for you.
+2. Because the current system is not good for you. It's designed for politicians. Not for you.
