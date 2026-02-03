@@ -13,13 +13,13 @@
 		{
 			"id":"f8e5ecc53ea05c26",
 			"type":"text",
-			"text":"Result. Big Parties Gain, Voters Lose.\n##### Winner\n- **Big Parties** (competitors lose before the game)\n# Loser\n- Small Party (lose before the game)\n- Voters (votes loss influence, they are forced to choice big parties to win)",
+			"text":"# Result. Big Parties Gain, Voters Lose.\n##### Winner\n- **Big Parties** (competitors lose before the game)\n# Loser\n- Small Party (lose before the game)\n- Voters (votes loss influence, they are forced to choice big parties to win)",
 			"dynamicHeight":true,
 			"styleAttributes":{},
 			"x":-480,
 			"y":-280,
 			"width":260,
-			"height":380
+			"height":440
 		},
 		{
 			"id":"003c873d40a1d058",
@@ -34,8 +34,7 @@
 		{"id":"d2ff877598bc39b1","type":"file","file":"1_Understanding the situation/12_How It Generate Safe-to-Ignore Local Voice/Big Parties Gain, Voters Lose..md","x":1170,"y":-320,"width":520,"height":320},
 		{"id":"2394269d503cd4eb","type":"file","file":"en/9_Solutions/2. Remove SMD, Reform Entire System.md","x":350,"y":390,"width":680,"height":760},
 		{"id":"7284ec45ce5de51b","type":"file","file":"en/9_Solutions/1. Spread the understanding of the current situation.md","x":-130,"y":565,"width":440,"height":455},
-		{"id":"39d5f1383e350d9c","type":"file","file":"en/9_Solutions/Why Single Transferable Vote solve the problem.md","x":1200,"y":222,"width":720,"height":1095},
-		{"id":"ec5a556806e3b88d","type":"file","file":"en/1_Current-Situation/11_Small-Party-Lose-Before-Vote/Result. Big Parties Gain, Voters Lose..md","dynamicHeight":true,"x":-740,"y":-280,"width":400,"height":300}
+		{"id":"39d5f1383e350d9c","type":"file","file":"en/9_Solutions/Why Single Transferable Vote solve the problem.md","x":1200,"y":222,"width":720,"height":1095}
 	],
 	"edges":[
 		{
