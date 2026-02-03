@@ -5,5 +5,4 @@
 5. Because we should act before things become too late. Elites are re-shaping Internet for them. AI likely change our society forever. Thus, we are living in possibly the most important era of humanity. What is decided today could persist long time and affect an unimaginable number of people.  
 6. And Japan (my country) seems to be entering a political transition. the long standing party might finally open the path for others. It's time to recap our system. And think what is the best for us.
 
-Let's Start.
-It
+Let's Start. It's not long.
