@@ -8,5 +8,5 @@ The existence of categorized voters incentivises politicians to manipulate votes
 
 ### Verdict: Any Categorized Voters System is Bad
 No matter the intention. 
-When we need to categorize voters, for technical reasons, the effect should be minimized. "Winner Takes All" is a deliberate exploit to maximize the flaw of categorization.
+When we **need to** categorize voters, for technical reasons, the effect should be minimized. The common implementation of "Winner Takes All" with categorized voting is a deliberate exploit to maximize the flaw of the mechanism to maximize a politician's survival.
 We can't forget politicians have a strong incentive to manipulate votes to survive.
