@@ -95,3 +95,6 @@ hooks:
 
 extra_css:
   - css/extra.css
+
+exclude_docs: |
+  non-mkdocs/*
