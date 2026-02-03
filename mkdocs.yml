@@ -97,6 +97,4 @@ extra_css:
   - css/extra.css
 
 exclude_docs: |
-  docs/non-mkdocs/*
-  docs/en/non-mkdocs/*
   en/non-mkdocs/*
