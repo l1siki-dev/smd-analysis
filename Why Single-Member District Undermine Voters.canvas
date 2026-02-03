@@ -1,0 +1,98 @@
+{
+	"nodes":[
+		{"id":"3bc06dc20a64e610","type":"group","x":-900,"y":-1560,"width":3520,"height":1660,"label":"Understanding The Situation"},
+		{"id":"72a360e88324de65","type":"group","x":980,"y":-1480,"width":1600,"height":1520,"label":"Divide and Conquer"},
+		{"id":"a20cfe14ccc4c6c1","type":"group","x":-820,"y":-1480,"width":960,"height":1520,"label":"Small party is defeated before vote"},
+		{"id":"34c3d8b76e8bdeb4","type":"group","x":-120,"y":300,"width":1280,"height":1000,"label":"Plan to Solve Problem"},
+		{"id":"7fc78c86e22393c0","type":"group","x":200,"y":-1480,"width":720,"height":1520,"label":"Categorization Encourage Manipulation"},
+		{"id":"2394269d503cd4eb","type":"file","file":"en/9_Solutions/2. Remove SMD, reform the entire system.md","x":400,"y":370,"width":680,"height":760},
+		{"id":"7284ec45ce5de51b","type":"file","file":"en/9_Solutions/1. Spread the understanding of the current situation.md","x":-80,"y":545,"width":440,"height":455},
+		{"id":"39d5f1383e350d9c","type":"file","file":"en/9_Solutions/Why Single Transferable Vote solve the problem.md","x":1240,"y":145,"width":880,"height":1210},
+		{"id":"894a54342e16ad57","type":"file","file":"en/1_Current-Situations/15_Category-Operation/Rewards map-drawing, not vote-getting.md","x":240,"y":-1420,"width":640,"height":660},
+		{"id":"54fbeb9cf3a35f65","type":"file","file":"en/1_Current-Situations/11_Filter-by-money,-not-popularity/Filter by money, not popularity.md","x":-740,"y":-1420,"width":784,"height":960},
+		{"id":"86a4912fbf6e3ece","type":"file","file":"en/non-mkdocs/11/Big Parties Gain, Voters Lose..md","dynamicHeight":true,"x":-605,"y":-320,"width":514,"height":320},
+		{
+			"id":"003c873d40a1d058",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":1580,
+			"y":880,
+			"width":260,
+			"height":60
+		},
+		{"id":"d2ff877598bc39b1","type":"file","file":"en/non-mkdocs/13/Big Parties Gain, Voters Lose..md","x":1160,"y":-320,"width":540,"height":320},
+		{"id":"a2bcd258a1c61038","type":"file","file":"en/non-mkdocs/12/Big Parties Gain, Voters Lose..md","x":335,"y":-320,"width":450,"height":320},
+		{"id":"3fbaf2fbff1c419f","type":"file","file":"en/1_Current-Situations/13_Divide-and-Conquer/Forces neighbors to fight each other.md","x":1020,"y":-1440,"width":820,"height":1000},
+		{"id":"73c24a41adc9001c","type":"file","file":"en/Which country uses Winner-Take-All SMD.md","dynamicHeight":true,"x":-1680,"y":-1560,"width":740,"height":1100},
+		{"id":"c443f7b4a53742e4","type":"file","file":"en/1_Current-Situations/13_Divide-and-Conquer/Historical Example, Partition of India..md","x":1900,"y":-1350,"width":640,"height":820}
+	],
+	"edges":[
+		{
+			"id":"4eff7c64e379c32a",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3bc06dc20a64e610",
+			"fromSide":"bottom",
+			"toNode":"34c3d8b76e8bdeb4",
+			"toSide":"top",
+			"label":"Single-Member District is Bad.\nWhat Should We Do?"
+		},
+		{
+			"id":"94f60457999efd14",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"894a54342e16ad57",
+			"fromSide":"bottom",
+			"toNode":"a2bcd258a1c61038",
+			"toSide":"top",
+			"label":"Who Gain/Lose?"
+		},
+		{
+			"id":"9a2d26060f77358b",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"39d5f1383e350d9c",
+			"fromSide":"left",
+			"toNode":"2394269d503cd4eb",
+			"toSide":"right"
+		},
+		{
+			"id":"87672d019c289246",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"54fbeb9cf3a35f65",
+			"fromSide":"bottom",
+			"toNode":"86a4912fbf6e3ece",
+			"toSide":"top",
+			"label":"Who Gain/Lose?"
+		},
+		{
+			"id":"2c5718a28726917f",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"3fbaf2fbff1c419f",
+			"fromSide":"bottom",
+			"toNode":"d2ff877598bc39b1",
+			"toSide":"top",
+			"label":"Who Gain/Lose?"
+		},
+		{
+			"id":"a4c911479716ff83",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"c443f7b4a53742e4",
+			"fromSide":"left",
+			"toNode":"3fbaf2fbff1c419f",
+			"toSide":"right"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"3bc06dc20a64e610"
+	}
+}
