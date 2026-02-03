@@ -1,18 +1,19 @@
 ### Democratic G20 Countries: Winner-Take-All SMD Systems
 
-| Country            | Use? | impact       | Notes                                                                                                                                            |
-| ------------------ | ---- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **United States**  | ✅    | **Heighest** | Pure SMD (First-Past-The-Post). The most "Winner-Take-All" major democracy.                                                                      |
-| **United Kingdom** | ✅    | **High**     | Pure SMD (First-Past-The-Post). Often results in "landslide" majorities for one party.                                                           |
-| **Canada**         | ✅    | **High**     | Pure SMD (First-Past-The-Post). Locally, second place gets zero representation.                                                                  |
-| **India**          | ✅    | **High**     | Pure SMD (First-Past-The-Post). Large-scale use of winner-take-all to ensure local accountability.                                               |
-| **France**         | ✅    | **High**     | Two-Round SMD. Only one winner per district, but use runoffs to ensure the winner has broad support.                                             |
-| **Australia**      | ✅    | **High**     | SMD with Ranked-Choice. Still one winner per district, but "Winner-Take-All" is decided by preferences.                                          |
-| **Japan**          | ✅    | **Medium**   | **Mixed (Parallel)**. 289 seats are strictly winner-take-all. Losing here doesn't affect the party's proportional seats.                         |
-| **Mexico**         | ✅    | **Medium**   | **Mixed (Parallel)**. 300 seats are elected via winner-take-all districts; 200 are proportional.                                                 |
-| **South Korea**    | ✅    | **Medium**   | **Mixed (Parallel)**. Similar to Japan; the district seats are independent winner-take-all contests.                                             |
-| **Germany**        | ✅    | **Low**      | **Mixed (MMP)**. While local candidates win their seats via winner-take-all, the *total* power of a party is corrected by the proportional vote. |
-| **Italy**          | ✅    | **Low**      | **Mixed**. About 1/3 of seats are winner-take-all; the rest are proportional, diluting the local "winner" effect.                                |
+| Country            | Use? | Impact on the result | Notes                                                                                                                                            |
+| ------------------ | ---- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **United States**  | ✅    | **Heighest**         | Pure SMD (First-Past-The-Post). The most "Winner-Take-All" major democracy.                                                                      |
+| **United Kingdom** | ✅    | **High**             | Pure SMD (First-Past-The-Post). Often results in "landslide" majorities for one party.                                                           |
+| **Canada**         | ✅    | **High**             | Pure SMD (First-Past-The-Post). Locally, second place gets zero representation.                                                                  |
+| **India**          | ✅    | **High**             | Pure SMD (First-Past-The-Post). Large-scale use of winner-take-all to ensure local accountability.                                               |
+| **France**         | ✅    | **Medium-High**      | Two-Round SMD. Only one winner per district, but use runoffs to ensure the winner has broad support.                                             |
+| **Australia**      | ✅    | **Medium-High**      | SMD with Ranked-Choice. Still one winner per district, but "Winner-Take-All" is decided by preferences.                                          |
+| **Japan**          | ✅    | **Medium**           | **Mixed (Parallel)**. 289 seats are strictly winner-take-all. Losing here doesn't affect the party's proportional seats.                         |
+| **Mexico**         | ✅    | **Medium**           | **Mixed (Parallel)**. 300 seats are elected via winner-take-all districts; 200 are proportional.                                                 |
+| **South Korea**    | ✅    | **Medium**           | **Mixed (Parallel)**. Similar to Japan; the district seats are independent winner-take-all contests.                                             |
+| **Germany**        | ✅    | **Low**              | **Mixed (MMP)**. While local candidates win their seats via winner-take-all, the *total* power of a party is corrected by the proportional vote. |
+| **Italy**          | ✅    | **Low**              | **Mixed**. About 1/3 of seats are winner-take-all; the rest are proportional, diluting the local "winner" effect.                                |
+|                    |      |                      |                                                                                                                                                  |
 ### Why "Impact" Varies:
 * **High Impact:** These are "Pure" systems. If your party gets 20% of the vote nationwide but doesn't win a single district, you get **zero** seats in parliament.
 * **Medium Impact (Japan/Mexico/Korea):** These are **Parallel Systems**. The winner-take-all districts and the proportional lists exist side-by-side. The proportional seats *do not* compensate for losses in the districts.
