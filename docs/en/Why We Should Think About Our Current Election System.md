@@ -1,3 +1,3 @@
 1. Becasue it shape our daily life. Tax, economic policy, society, these are ultimately come from politics. And election shape politics.
 2. Because the current system is not good for you. It often designed for politicians' survival . Not your survival.
-3. Because if we, people, demand it can be change
+3. Because if we, people, demand it
