@@ -8,7 +8,6 @@
 		{"id":"894a54342e16ad57","type":"file","file":"en/1_Current-Situation/13_Category-Operation/Categorization Encourage Manipulation.md","x":280,"y":-1420,"width":560,"height":440},
 		{"id":"3fbaf2fbff1c419f","type":"file","file":"en/1_Current-Situation/13_Divide-and-Conquer/Divide and Conquer to Erase Local Voice..md","x":1020,"y":-1440,"width":820,"height":900},
 		{"id":"54fbeb9cf3a35f65","type":"file","file":"en/1_Current-Situation/11_Small-Party-Lose-Before-Vote/Small Party Lose Before Vote..md","ratio":0.8,"x":-740,"y":-1420,"width":784,"height":980},
-		{"id":"ab2b649e303153ba","type":"file","file":"1_Understanding the situation/11_How It Makes Voters weak/Big Parties Gain, Voters Lose..md","x":-590,"y":-320,"width":484,"height":320},
 		{"id":"a2bcd258a1c61038","type":"file","file":"1_Understanding the situation/13_Categorization Enable Manipulation/Big Parties Gain, Voters Lose..md","x":335,"y":-320,"width":450,"height":320},
 		{"id":"c443f7b4a53742e4","type":"file","file":"en/1_Current-Situation/13_Divide-and-Conquer/Historical Example, Partition of India..md","x":2020,"y":-1390,"width":640,"height":800},
 		{
@@ -24,20 +23,20 @@
 		{"id":"d2ff877598bc39b1","type":"file","file":"1_Understanding the situation/12_How It Generate Safe-to-Ignore Local Voice/Big Parties Gain, Voters Lose..md","x":1170,"y":-320,"width":520,"height":320},
 		{"id":"2394269d503cd4eb","type":"file","file":"en/9_Solutions/2. Remove SMD, Reform Entire System.md","x":350,"y":390,"width":680,"height":760},
 		{"id":"7284ec45ce5de51b","type":"file","file":"en/9_Solutions/1. Spread the understanding of the current situation.md","x":-130,"y":565,"width":440,"height":455},
-		{"id":"39d5f1383e350d9c","type":"file","file":"9_Solutions/Why Single Transferable Vote solve the problem.md","x":1170,"y":222,"width":720,"height":1095}
+		{"id":"39d5f1383e350d9c","type":"file","file":"en/9_Solutions/Why Single Transferable Vote solve the problem.md","x":1200,"y":222,"width":720,"height":1095},
+		{
+			"id":"f8e5ecc53ea05c26",
+			"type":"text",
+			"text":"a",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-480,
+			"y":-280,
+			"width":260,
+			"height":60
+		}
 	],
 	"edges":[
-		{
-			"id":"92ad9b553616e78a",
-			"styleAttributes":{"pathfindingMethod":"square"},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"54fbeb9cf3a35f65",
-			"fromSide":"bottom",
-			"toNode":"ab2b649e303153ba",
-			"toSide":"top",
-			"label":"Who Gain/Lose?"
-		},
 		{
 			"id":"2c5718a28726917f",
 			"styleAttributes":{"pathfindingMethod":"square"},
@@ -88,6 +87,15 @@
 			"fromSide":"left",
 			"toNode":"3fbaf2fbff1c419f",
 			"toSide":"right"
+		},
+		{
+			"id":"23b5b048c789cbbb",
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"toFloating":false,
+			"fromNode":"54fbeb9cf3a35f65",
+			"fromSide":"bottom",
+			"toNode":"f8e5ecc53ea05c26",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
