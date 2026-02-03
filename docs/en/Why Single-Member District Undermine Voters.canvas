@@ -11,6 +11,17 @@
 		{"id":"a2bcd258a1c61038","type":"file","file":"1_Understanding the situation/13_Categorization Enable Manipulation/Big Parties Gain, Voters Lose..md","x":335,"y":-320,"width":450,"height":320},
 		{"id":"c443f7b4a53742e4","type":"file","file":"en/1_Current-Situation/13_Divide-and-Conquer/Historical Example, Partition of India..md","x":2020,"y":-1390,"width":640,"height":800},
 		{
+			"id":"f8e5ecc53ea05c26",
+			"type":"text",
+			"text":"Result. Big Parties Gain, Voters Lose.\n##### Winner\n- **Big Parties** (competitors lose before the game)\n# Loser\n- Small Party (lose before the game)\n- Voters (votes loss influence, they are forced to choice big parties to win)",
+			"dynamicHeight":true,
+			"styleAttributes":{},
+			"x":-480,
+			"y":-280,
+			"width":260,
+			"height":380
+		},
+		{
 			"id":"003c873d40a1d058",
 			"type":"text",
 			"text":"",
@@ -24,17 +35,7 @@
 		{"id":"2394269d503cd4eb","type":"file","file":"en/9_Solutions/2. Remove SMD, Reform Entire System.md","x":350,"y":390,"width":680,"height":760},
 		{"id":"7284ec45ce5de51b","type":"file","file":"en/9_Solutions/1. Spread the understanding of the current situation.md","x":-130,"y":565,"width":440,"height":455},
 		{"id":"39d5f1383e350d9c","type":"file","file":"en/9_Solutions/Why Single Transferable Vote solve the problem.md","x":1200,"y":222,"width":720,"height":1095},
-		{
-			"id":"f8e5ecc53ea05c26",
-			"type":"text",
-			"text":"a",
-			"dynamicHeight":true,
-			"styleAttributes":{},
-			"x":-480,
-			"y":-280,
-			"width":260,
-			"height":60
-		}
+		{"id":"ec5a556806e3b88d","type":"file","file":"en/1_Current-Situation/11_Small-Party-Lose-Before-Vote/Result. Big Parties Gain, Voters Lose..md","dynamicHeight":true,"x":-740,"y":-280,"width":400,"height":300}
 	],
 	"edges":[
 		{
