@@ -6,4 +6,4 @@
 6. And Japan (my country) seems to be entering a political transition. the long standing party might finally open the path for others. It's time to recap our system. And think what is the best for us.
 
 Let's Start.
-It's 
+It
