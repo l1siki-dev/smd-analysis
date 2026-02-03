@@ -2,7 +2,7 @@
 
 | Country            | Use? | impact          | Notes                                                                                                                                            |
 | ------------------ | ---- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **United States**  | ✅    | **High**        | Pure SMD (First-Past-The-Post). The most "Winner-Take-All" major democracy.                                                                      |
+| **United States**  | ✅    | **Heighest**    | Pure SMD (First-Past-The-Post). The most "Winner-Take-All" major democracy.                                                                      |
 | **United Kingdom** | ✅    | **High**        | Pure SMD (First-Past-The-Post). Often results in "landslide" majorities for one party.                                                           |
 | **Canada**         | ✅    | **High**        | Pure SMD (First-Past-The-Post). Locally, second place gets zero representation.                                                                  |
 | **India**          | ✅    | **High**        | Pure SMD (First-Past-The-Post). Large-scale use of winner-take-all to ensure local accountability.                                               |
