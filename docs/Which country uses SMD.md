@@ -1,7 +1,5 @@
 ### Democratic G20 Countries: Winner-Take-All SMD Systems
 
-  
-
 | Country            | Use or not | How it's impactful (High to low) | Notes                                                                                                                                            |
 | ------------------ | ---------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **United States**  | **Use**    | **High**                         | Pure SMD (First-Past-The-Post). The most "Winner-Take-All" major democracy.                                                                      |
