@@ -1,0 +1,1 @@
+1. Becasue it shape our daily life. Tax, economic policy, society, these are ultimately come from
