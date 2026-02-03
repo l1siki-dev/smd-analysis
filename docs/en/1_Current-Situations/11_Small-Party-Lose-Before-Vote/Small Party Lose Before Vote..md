@@ -3,7 +3,7 @@
 
 - **The "Evil Party" (Rich/Unpopular):** They are rich since they are corrupted. They have money to send **100 candidates**. They can afford the registration fees, staff, and advertising for every single district.
     
-- **The "Good Party" (Poor/Popular):** They only have enough funding to field **10 candidates**. Despite, having the better idea and support from voters. But, they are absent from 90% of the map.
+- **The "Good Party" (Poor/Popular):** They only have enough funding to field **10 candidates**. Having the better idea. Having support from voters. But, they are absent from 90% of the map.
 
 ### The Math of "Victory by Default."
 
