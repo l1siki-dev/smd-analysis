@@ -21,6 +21,6 @@ Single Transferable Vote (STV) fixes the system by not only changing the *math*,
 *   **Result:** Representatives go to parliament with a mandate for policy, not just a mandate to fix local potholes.
 
 ### 5. Solves "The Local Monopoly" ("Local Voice" will be heard)
-*   **The Mechanism:** Instead of one representative, who will be ignored in naion, "owning" your district, multiple politicians (3–5) compete to represent your region.
+*   **The Mechanism:** Instead of one representative, who will be ignored in the parliament, "owning" your district, multiple politicians (3–5) compete to represent your region.
 *   **The Fix:** Competition creates accountability. In the old system, a "Safe Seat" politician could ignore your specific town's problem because they had no rivals. In STV, if one politician ignores your town, a challenger will champion your cause to steal your vote.
-*   **Result:** Your local voice is actually *amplified*. You go from having one "Local Hero" who can take you for granted, to a team of representatives fighting for your attention.
+*   **Result:** Your local voice is actually *amplified*. You go from having one "Local Hero" who can take you for granted, to a team of representatives fighting for your attention. And all of them become expert of your problem. The likelhood of fixing your local problem will be higher than singl
