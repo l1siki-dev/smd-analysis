@@ -1,2 +1,2 @@
 1. Becasue it shape our daily life. Tax, economic policy, society, these are ultimately come from politics. And election shape politics.
-2. Because the current system is not 
+2. Because the current system is not the 
