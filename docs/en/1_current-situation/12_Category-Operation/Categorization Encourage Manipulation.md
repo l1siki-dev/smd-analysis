@@ -8,4 +8,4 @@ The existence of categorized voters incentivises politicians to manipulate votes
 
 ### Verdict: Any Categorized Voters System is Bad
 No matter the intention. 
-Especially politicians have strong desire to manipulate categorised vote to survive.
+Especially if it's comepoliticians have strong desire to manipulate votes to survive.
