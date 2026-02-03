@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"3bc06dc20a64e610","type":"group","x":-900,"y":-1560,"width":2840,"height":1660,"label":"Understanding The Situation"},
+		{"id":"3bc06dc20a64e610","type":"group","x":-900,"y":-1560,"width":3580,"height":1660,"label":"Understanding The Situation"},
 		{"id":"a20cfe14ccc4c6c1","type":"group","x":-820,"y":-1480,"width":960,"height":1520,"label":"Small party is defeated before vote"},
 		{"id":"72a360e88324de65","type":"group","x":980,"y":-1480,"width":900,"height":1520,"label":"Divide and Conquer"},
 		{"id":"34c3d8b76e8bdeb4","type":"group","x":-120,"y":300,"width":1280,"height":1000,"label":"Plan to Solve Problem"},
