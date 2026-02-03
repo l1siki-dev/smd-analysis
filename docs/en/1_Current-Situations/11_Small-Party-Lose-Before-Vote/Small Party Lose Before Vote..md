@@ -22,6 +22,6 @@ Under SMD, if no one from the party runs in a district, they lose automatically.
 
 ### The Verdict: This system rewards big parties (money).
 
-Having good ideas is not the most important factor.
+Having support from people is not the most important factor.
 Voters' support becomes optional. The real victory condition is "send more candidates than other parties", which means spending more money.
 This system is Anti-Democracy by design.
