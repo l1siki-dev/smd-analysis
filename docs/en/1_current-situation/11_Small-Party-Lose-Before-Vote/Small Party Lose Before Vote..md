@@ -1,4 +1,4 @@
-[](Big%20Parties%20Gain,%20Voters%20Lose..md)[](Big%20Parties%20Gain,%20Voters%20Lose..md)[](Big%20Parties%20Gain,%20Voters%20Lose..md)Even if the small party have 100% support from voters.
+Even if the small party have 100% support from voters.
 ### The Scenario: 100 Districts
 
 - **The "Evil Party" (Rich/Unpopular):** They are rich since they are corrupted. They have money to send **100 candidates**. They can afford the registration fees, staff, and advertising for every single district.
