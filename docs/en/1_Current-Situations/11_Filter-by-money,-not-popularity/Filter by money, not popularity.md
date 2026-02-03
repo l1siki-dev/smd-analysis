@@ -13,10 +13,10 @@ Under SMD, if no one from the party runs in a district, they lose automatically.
 - **In 10 Districts:** The Good Party wins all 10 seats, because voters support them. Their actual win rate is 100%.
 ### The Result
 
-| **Party**      | **Candidates** | **Popular Support**  | **Seats Won** | **Power**      |
-| -------------- | -------------- | -------------------- | ------------- | -------------- |
-| **Evil Party** | 100            | Near Zero            | **90**        | Absolute       |
-| **Good Party** | 10             | 100% (where present) | **10**        | Zero Influence |
+| **Party**      | **Candidates** | **Popular Support**  | **Seats Won** | **Power**        |
+| -------------- | -------------- | -------------------- | ------------- | ---------------- |
+| **Evil Party** | 100            | Near Zero            | **90**        | ✨Absolute        |
+| **Good Party** | 10             | 100% (where present) | **10**        | 💀Zero Influence |
 
 ---
 
