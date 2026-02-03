@@ -22,5 +22,5 @@ Single Transferable Vote (STV) fixes the system by not only changing the *math*,
 
 ### 5. Solves "Nobody thinks about my local."
 *   **The Mechanism:** Candidates run in a larger region that includes your local area, and they want your vote.
-*   **The Fix:** Not only your local hero, but more politicians will hear your voice. You have more choices, which means politicians (including your local hero) have to work hard to gain your vote. "Local Problem" you had will be a larger regional problem that more politicians try to fix.
+*   **The Fix:** Not only your local hero, but more politicians will hear your voice. They willYou have more choices, which means politicians (including your local hero) have to work hard to gain your vote. "Local Problem" you had will be a larger regional problem that more politicians try to fix.
 *   **Result:** Finally, "local voice" will be heard.
