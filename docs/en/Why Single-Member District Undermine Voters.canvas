@@ -85,7 +85,8 @@
 			"fromNode":"54fbeb9cf3a35f65",
 			"fromSide":"bottom",
 			"toNode":"86a4912fbf6e3ece",
-			"toSide":"top"
+			"toSide":"top",
+			"label":"Who Gain/Lose?"
 		}
 	],
 	"metadata":{
