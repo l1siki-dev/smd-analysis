@@ -14,7 +14,7 @@ Here lies the systemic failure. When Candidate B (the Local Hero) enters parliam
 
 Parliament is comprised of hundreds of big party members and a handful of other "Local Heroes" from a different city. None of them has any incentive to help Awesome City; in fact, they are incentivized to take resources *away* from Awesome City to help their own promise to the people.
 
-Because the Local Hero promised "Awesome City First", they can't make friends. The "Local Voice" will be ignored because of systematic creation; they need to be radical to win the local race, but the "Local Voice" become obstacle for the local hero to cooperate with others. Without cooperation, a lonely local hero will find a dead end.
+Because the Local Hero promised "Awesome City First", they can't make friends. They need to be radical to win the local race, but the radical "Local Voice" become obstacle when cooperate with others. Without cooperation, a lonely local hero will find a dead end; democracy is a majority game.
 
 #### Conclusion: Divide and Conquer
 Single-Member Districts do not amplify the local voice; they isolate and erase it. By forcing politicians to act as neighborhood guardians to win local elections, the system anticipates that local politicians will be ignored in national level. The system raises the likelihood that every locality remains structurally powerless. 
