@@ -7,11 +7,11 @@
 
 ### The Math of "Victory by Default."
 
-Under SMD, if only one person runs in a district, they win automatically.
+Under SMD, if no one from the party runs in a district, they lose automatically.
 
-- **In 90 Districts:** The Evil Party win automatically. Even if people don't support them,
+- **In 90 Districts:** The Good Party lose automatically. Even if people support them,
     
-- **In 10 Districts:** The Good Party wins all 10 seats, because voters support them. Their win rate is 100%.
+- **In 10 Districts:** The Good Party wins all 10 seats, because voters support them. Their actual win rate is 100%.
 ### The Result
 
 | **Party**      | **Candidates** | **Popular Support**  | **Seats Won** | **Power**      |
