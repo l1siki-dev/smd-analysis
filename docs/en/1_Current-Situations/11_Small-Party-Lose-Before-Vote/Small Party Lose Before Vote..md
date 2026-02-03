@@ -24,5 +24,5 @@ Under SMD rules, if only one person runs in a district, they win automatically.
 ### The Verdict: This system reward big party (money).
 
 Having good ideas is not the most important factor.
-Voters' support become optional victory condition. The real victory condition is "send more candidate than other parties", which means spend more money.
+Voters' support become optional. The real victory condition is "send more candidate than other parties", which means spend more money.
 This system is Anti-Democracy by design.
