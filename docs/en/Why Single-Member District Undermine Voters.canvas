@@ -3,11 +3,8 @@
 		{"id":"3bc06dc20a64e610","type":"group","x":-1000,"y":-1560,"width":2940,"height":1660,"label":"Understanding The Situation"},
 		{"id":"a20cfe14ccc4c6c1","type":"group","x":-820,"y":-1480,"width":960,"height":1520,"label":"Small Parties Loss Automaticaly"},
 		{"id":"72a360e88324de65","type":"group","x":980,"y":-1480,"width":900,"height":1520,"label":"Local Communities Loss Automaticaly"},
-		{"id":"34c3d8b76e8bdeb4","type":"group","x":-170,"y":320,"width":1280,"height":1000,"label":"Plan to Solve Problem"},
 		{"id":"7fc78c86e22393c0","type":"group","x":240,"y":-1480,"width":640,"height":1520,"label":"Categorization is Manipulation"},
-		{"id":"3fbaf2fbff1c419f","type":"file","file":"en/1_Current-Situation/13_Divide-and-Conquer/Divide and Conquer..md","x":1020,"y":-1440,"width":820,"height":900},
-		{"id":"a2bcd258a1c61038","type":"file","file":"en/non-mkdocs/12/Big Parties Gain, Voters Lose..md","x":335,"y":-320,"width":450,"height":320},
-		{"id":"c443f7b4a53742e4","type":"file","file":"en/1_Current-Situation/13_Divide-and-Conquer/Historical Example, Partition of India..md","x":2020,"y":-1390,"width":640,"height":800},
+		{"id":"34c3d8b76e8bdeb4","type":"group","x":-170,"y":320,"width":1280,"height":1000,"label":"Plan to Solve Problem"},
 		{
 			"id":"003c873d40a1d058",
 			"type":"text",
@@ -22,9 +19,12 @@
 		{"id":"2394269d503cd4eb","type":"file","file":"en/9_Solutions/2. Remove SMD, Reform Entire System.md","x":350,"y":390,"width":680,"height":760},
 		{"id":"7284ec45ce5de51b","type":"file","file":"en/9_Solutions/1. Spread the understanding of the current situation.md","x":-130,"y":565,"width":440,"height":455},
 		{"id":"39d5f1383e350d9c","type":"file","file":"en/9_Solutions/Why Single Transferable Vote solve the problem.md","x":1200,"y":222,"width":720,"height":1095},
+		{"id":"3fbaf2fbff1c419f","type":"file","file":"en/1_Current-Situation/13_Divide-and-Conquer/Divide and Conquer by SMD.md","x":1020,"y":-1440,"width":820,"height":900},
+		{"id":"a2bcd258a1c61038","type":"file","file":"en/non-mkdocs/12/Big Parties Gain, Voters Lose..md","x":335,"y":-320,"width":450,"height":320},
+		{"id":"c443f7b4a53742e4","type":"file","file":"en/1_Current-Situation/13_Divide-and-Conquer/Historical Example, Partition of India..md","x":2020,"y":-1390,"width":640,"height":800},
 		{"id":"894a54342e16ad57","type":"file","file":"en/1_Current-Situation/12_Category-Operation/Categorization Encourage Manipulation.md","x":280,"y":-1420,"width":560,"height":440},
 		{"id":"54fbeb9cf3a35f65","type":"file","file":"en/1_Current-Situation/11_Small-Party-Lose-Before-Vote/Small Party Lose Before Vote..md","ratio":0.8,"x":-740,"y":-1420,"width":784,"height":980},
-		{"id":"86a4912fbf6e3ece","type":"file","file":"en/non-mkdocs/11/Big Parties Gain, Voters Lose..md","dynamicHeight":true,"x":-605,"y":-320,"width":514,"height":320}
+		{"id":"86a4912fbf6e3ece","type":"file","file":"en/non-mkdocs/11/Big Parties Gain, Voters Lose..md","dynamicHeight":true,"x":-605,"y":-320,"width":514,"height":60}
 	],
 	"edges":[
 		{
