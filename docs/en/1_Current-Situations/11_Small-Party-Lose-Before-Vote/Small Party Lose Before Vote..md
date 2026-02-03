@@ -21,7 +21,7 @@ Under SMD rules, if only one person runs in a district, they win automatically.
 
 ---
 
-### The Verdict: This system incentives big party (money).
+### The Verdict: This system reward big party (money).
 
 Having good ideas is not the dominant factor.
 Voters' support become optional victory condition. The real victory condition is "send more candidate than other parties", which means spend more money.
