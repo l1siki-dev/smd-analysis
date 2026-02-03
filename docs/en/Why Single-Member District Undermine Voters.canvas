@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"3bc06dc20a64e610","type":"group","x":-1000,"y":-1560,"width":2940,"height":1660,"label":"Understanding The Situation"},
-		{"id":"a20cfe14ccc4c6c1","type":"group","x":-820,"y":-1480,"width":960,"height":1520,"label":"Filter by money, not popularity"},
+		{"id":"a20cfe14ccc4c6c1","type":"group","x":-820,"y":-1480,"width":960,"height":1520,"label":"Small Party Automatic Defeat"},
 		{"id":"72a360e88324de65","type":"group","x":980,"y":-1480,"width":900,"height":1520,"label":"Divide and Conquer"},
 		{"id":"34c3d8b76e8bdeb4","type":"group","x":-170,"y":320,"width":1280,"height":1000,"label":"Plan to Solve Problem"},
 		{"id":"7fc78c86e22393c0","type":"group","x":200,"y":-1480,"width":720,"height":1520,"label":"Categorization Encourage Manipulation"},
