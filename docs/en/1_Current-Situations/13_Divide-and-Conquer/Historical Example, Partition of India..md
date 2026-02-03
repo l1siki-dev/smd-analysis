@@ -10,7 +10,7 @@ The only difference between the India Partition and SMD is the granular size of 
 ### Categorization as a Trap
 It was a deliberate trap Britain left when it "freed" India. 
 Britain wants to present the evidence: "When we left India, the chaos started. We are a good force of stability."
-It was Divide and Conquer, that
+It was Divide and Conquer, the exact strategy that Britain employed to conquer India. They used it again when they left.
 
 Single-Member Districts apply this same "Categorized Voter" logic, but instead of dividing into few blob, it divides into fragmented **numerous local identities**. Which leads no category has power.
 
