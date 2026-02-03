@@ -1,0 +1,378 @@
+{
+  "main": {
+    "id": "e62755a53951e3a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d88be1a2356d9676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4fb98c24b00944",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "en/Why Single-Member District Undermine Voters.canvas",
+                "viewState": {
+                  "x": 638.2390063435145,
+                  "y": -463.81325305033437,
+                  "zoom": -0.7874357560253971
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Why Single-Member District Undermine Voters"
+            }
+          },
+          {
+            "id": "271517e118e64b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9_Solutions/Why Single Transferable Vote solve the problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why Single Transferable Vote solve the problem"
+            }
+          },
+          {
+            "id": "2119b3264e46f936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Understanding the situation/11_How It Makes Voters weak/Big Parties Gain, Voters Lose..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big Parties Gain, Voters Lose."
+            }
+          },
+          {
+            "id": "a5f94c6e74236365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Understanding the situation/11_How It Makes Voters weak/Small Party Lose Before Vote..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Small Party Lose Before Vote."
+            }
+          },
+          {
+            "id": "2da11ceef12c0b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9_Solutions/1. Spread the understanding of the current situation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Spread the understanding of the current situation"
+            }
+          },
+          {
+            "id": "05cc5ce7f81a4dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Understanding the situation/12_How It Generate Safe-to-Ignore Local Voice/Divide and Conquer to Erase Local Voice..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Divide and Conquer to Erase Local Voice."
+            }
+          },
+          {
+            "id": "2c3770013a5f496c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Understanding the situation/11_How It Makes Voters weak/Small Party Lose Before Vote..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Small Party Lose Before Vote."
+            }
+          },
+          {
+            "id": "c5991d6c76a6413f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "en/non-mkdocs/13/Big Parties Gain, Voters Lose..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big Parties Gain, Voters Lose."
+            }
+          },
+          {
+            "id": "90884daae12ae68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "en/non-mkdocs/12/Big Parties Gain, Voters Lose..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Big Parties Gain, Voters Lose."
+            }
+          },
+          {
+            "id": "1f5356dce33748d0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "en/Why Single-Member District Undermine Voters.canvas",
+                "viewState": {
+                  "x": 838.7181531547099,
+                  "y": 22.96553307060382,
+                  "zoom": -1.1480139554222508
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Why Single-Member District Undermine Voters"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fadf204638e7505",
+    "type": "split",
+    "children": [
+      {
+        "id": "e49f47c871fdb9b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95463d47b072fbd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2463c8945d8e612e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec43a292a8152074",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb81b64b45fb633a",
+    "type": "split",
+    "children": [
+      {
+        "id": "81325038c24ddbf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60db5a5701bee04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-11 20.14.46.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2026-01-11 20.14.46.excalidraw"
+            }
+          },
+          {
+            "id": "c8da203db7fd8e84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-11 20.14.46.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2026-01-11 20.14.46.excalidraw"
+            }
+          },
+          {
+            "id": "6f8736080946976e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1fa706c9e9d49c61",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "09cc0a593c70c1af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-11 20.14.46.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2026-01-11 20.14.46.excalidraw"
+            }
+          },
+          {
+            "id": "7825e445c850c864",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Why Single-Member District Undermine Voters.canvas"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Why Single-Member District Undermine Voters"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1f5356dce33748d0",
+  "lastOpenFiles": [
+    "en/index.md",
+    "en/Why Single-Member District Undermine Voters.canvas",
+    "en/1_Current-Situations/13_Divide-and-Conquer/Divide and Conquer by SMD.md",
+    "en/1_Current-Situations/13_Divide-and-Conquer/Historical Example, Partition of India..md",
+    "en/1_Current-Situations/15_Category-Operation/Categorization Encourage Manipulation.md",
+    "en/9_Solutions/1. Spread the understanding of the current situation.md",
+    "en/9_Solutions/2. Remove SMD, reform the entire system.md",
+    "en/9_Solutions/Why Single Transferable Vote solve the problem.md",
+    "en/1_Current-Situations/11_Small-Party-Lose-Before-Vote/Small Party Lose Before Vote..md",
+    "en/non-mkdocs/13/Big Parties Gain, Voters Lose..md",
+    "en/non-mkdocs/12/Big Parties Gain, Voters Lose..md",
+    "en/non-mkdocs/11/Big Parties Gain, Voters Lose..md",
+    "en/1_Current-Situation/11_Small-Party-Lose-Before-Vote/non-mkdocs/Big Parties Gain, Voters Lose..md",
+    "en/1_Current-Situation/11_Small-Party-Lose-Before-Vote/non-mkdocs",
+    "en/non-mkdocs/13",
+    "en/non-mkdocs/12",
+    "en/non-mkdocs/11",
+    "en/non-mkdocs",
+    "1_Understanding the situation/13_Categorization Enable Manipulation/Big Parties Gain, Voters Lose..md",
+    "1_Understanding the situation/13_Categorization Enable Manipulation/Categorization Encourage Manipulation.md",
+    "1_Understanding the situation/12_How It Generate Safe-to-Ignore Local Voice/Historical Example, Partition of India..md",
+    "1_Understanding the situation/12_How It Generate Safe-to-Ignore Local Voice/Divide and Conquer to Erase Local Voice..md",
+    "1_Understanding the situation/12_How It Generate Safe-to-Ignore Local Voice/Big Parties Gain, Voters Lose..md",
+    "1_Understanding the situation/11_How It Makes Voters weak/Small Party Lose Before Vote..md",
+    "1_Understanding the situation/11_How It Makes Voters weak/Big Parties Gain, Voters Lose..md",
+    "9_Solutions/2. Remove SMD, Reform Entire System.md",
+    "9_Solutions/1. Spread the understanding of the current situation.md",
+    "9_Solutions/Why Single Transferable Vote solve the problem.md",
+    "Why Single-Member District Undermine Voters.canvas",
+    "{D74A1E78-239D-4FDE-B767-C20632A5DDED}.png",
+    "Who created this.md",
+    "1_Understanding the situation/13_Categorization Enable Manipulation",
+    "1_Understanding the situation/16_Why Japan have it/Who implemented it in Japan.md",
+    "1_Understanding the situation/16_Why Japan have it/Why LDP implemented it.md",
+    "1_Understanding the situation/16_Why Japan have it/Untitled",
+    "1_Understanding the situation/12_How It Generate Safe-to-Ignore Local Voice",
+    "1_Understanding the situation",
+    "9_Solutions",
+    "why world is failing.canvas",
+    "part1/why good become bad.canvas",
+    "test-canvas.canvas"
+  ]
+}
