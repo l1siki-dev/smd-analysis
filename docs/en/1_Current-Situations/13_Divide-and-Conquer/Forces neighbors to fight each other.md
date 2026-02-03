@@ -17,7 +17,7 @@ Parliament is comprised of hundreds of big party members and a handful of other 
 Because the Local Hero promised "Awesome City First", they can't make friends. They need to be radical to win the local race, but the radical "Local Voice" become obstacle when cooperate with others. Without cooperation, a lonely local hero will find a dead end; democracy is a majority game.
 
 #### Conclusion: Divide and Conquer
-Single-Member Districts do not amplify the local voice; they isolate and erase it. By forcing politicians to act as neighborhood guardians to win local elections, the system anticipates that local politicians will be ignored in national level. The system raises the likelihood that every locality remains structurally powerless. 
+Single-Member Districts do not amplify the local voice; isolate and erase it. By forcing politicians to act as local guardians to win local elections, the system anticipates that local politicians will be ignored in national level. The system raises the likelihood that every locality remains structurally powerless. 
 
 This is a classic Divide and Conquer strategy applied on democracy system.
 It's a system to produce mass minorities that don't corporate each other. 
