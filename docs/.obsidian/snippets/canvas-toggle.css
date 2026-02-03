@@ -1,1 +1,26 @@
-/* Details Shown */
+/* 1. Kill the body content */ 
+.canvas-node-content-block, .canvas-node-content.markdown-embed, .markdown-preview-view { 
+    display: none !important; 
+} 
+/* 2. Center title, wrap text, and fix color */ 
+.canvas-node-label { 
+    position: absolute !important; 
+    top: 50% !important; 
+    left: 50% !important; 
+    transform: translate(-50%, -50%) !important; 
+    width: 90% !important; 
+    display: flex !important; 
+    justify-content: center !important; 
+    align-items: center !important; 
+    text-align: center !important; 
+    white-space: normal !important; 
+    font-size: 2.2em !important; 
+    font-weight: bold !important; 
+    color: var(--text-normal) !important; 
+    opacity: 1 !important; 
+    background: transparent !important; 
+    margin: 0 !important; 
+    padding: 0 !important; 
+} 
+/* 3. Remove icons */ 
+.canvas-node-label-icon { display: none !important; }
