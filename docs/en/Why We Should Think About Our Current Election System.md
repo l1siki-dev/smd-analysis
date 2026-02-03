@@ -2,4 +2,5 @@
 2. Because the current system is not good for you. It is often designed for politicians' survival. Not your survival.
 3. Because if we demand the change, politicians have to implement the change. We can change the outcome. If we acknowledge the current situation and act.
 4. Because it's good time to act. Internet and SNS enabled mass information sharing bypassing "authority". 
-5. Because we should act things become too late. Elites are re-shaping internet for them. And AI could be something so powerful and we are living in possibly the most important era of humanity. What decided today could persist long time and affect unimaginable amount of  people.  
+5. Because we should act things become too late. Elites are re-shaping internet for them. And AI could be something so powerful and we are living in possibly the most important era of humanity. What decided today could persist long time and affect unimaginable amount of people.  
+
