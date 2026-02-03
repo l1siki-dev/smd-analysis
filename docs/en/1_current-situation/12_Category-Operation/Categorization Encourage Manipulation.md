@@ -2,7 +2,7 @@
 
 These manipulations are possible because they have the category to tinker. Without category, no manipulation.
 
-Introducing any categorized voters, even with good intent, will result fragile election system that is prune to be .
+Introducing any categorized voters, even with good intent, will result fragile election system that is prune to be manipulated.
 
 The existence of categorized voters incentivises politicians to manipulate votes by changing how they are categorized. Because a politician's survival depends on the election result.
 
