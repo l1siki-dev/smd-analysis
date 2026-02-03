@@ -7,7 +7,7 @@
 
 ### The Math of "Victory by Default."
 
-Under SMD rules, if only one person runs in a district, they win automatically.
+Under SMD, if only one person runs in a district, they win automatically.
 
 - **In 90 Districts:** The Evil Party win automatically. Even if people don't support them,
     
