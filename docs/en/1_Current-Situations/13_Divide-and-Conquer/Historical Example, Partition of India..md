@@ -16,4 +16,4 @@ Single-Member Districts apply this same Divide and Conquer with "categorized vot
 
 Local categories push voters toward **local first**. Voters are incentivised to choose the candidate who is most radically obsessed with their specific district.
 
-However, this ensures that the representative stays irrelevant on the national stage. Because more radical they are, more difficult to make friends in the national level. 
+However, this ensures that the representative stays irrelevant on the national stage. The more radical they are, the more difficult to make friends at the national level. 
