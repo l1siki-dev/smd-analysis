@@ -8,12 +8,12 @@ The result was not a parliament of diverse voices working together; it was a "Ra
 The only difference between the India Partition and SMD is the granular size of categorization.
 
 ### Categorization as a Trap
-It was a deliberate trap Britain left when it "freed" India. 
-Britain wants to present the evidence: "When we left India, the chaos started. We are a good force of stability."
-It was Divide and Conquer, the exact strategy that Britain employed to conquer India. They used it again when they left.
+The chaos was a deliberate trap Britain left when it "freed" India. 
+Britain wanted to tell a story: "When we left India, the chaos started. We are a good force of stability."
+It was Divide and Conquer, the exact strategy that Britain employed to conquer India. When they left, they used it again.
 
-Single-Member Districts apply this same Divide and Conquer with "categorized voters" logic, but instead of dividing into a few blobs, it divides into fragmented **numerous local identities**. Which leads to no local has the power to actually deliver the effect.
+Single-Member Districts apply this same Divide and Conquer with "categorized voters" logic, but instead of dividing into a few blobs, it divides into fragmented **numerous local identities**. Which leads to them having no real power. 
 
 Local categories push voters toward **local first**. Voters are incentivised to choose the candidate who is most radically obsessed with their specific district.
 
-However, this ensures that the representative stays irrelevant on the national stage. The more radical they are, the more difficult to make friends at the national level. 
+However, this renderer that the representative irrelevant on the national stage. The more radical they are, the more difficult to make friends at the national level. 
