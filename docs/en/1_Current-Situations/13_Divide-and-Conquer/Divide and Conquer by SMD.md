@@ -20,4 +20,4 @@ Because the Local Hero promised "Awesome City First", they can't make friends. T
 Single-Member Districts do not amplify the local voice; they isolate and erase it. By forcing politicians to act as neighborhood guardians to win local elections, the system anticipates that local politicians will be ignored in national level. The system raises the likelihood that every locality remains structurally powerless. 
 
 This is a classic Divide and Conquer strategy applied on democracy system.
-It's a system to produce mass minorities that don't corporate each other. Big Party can are safe to ignore.
+It's a system to produce mass minorities that don't corporate each other. Big Party can will recycle them.
